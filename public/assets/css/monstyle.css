@@ -1,0 +1,11 @@
+.bouton {
+    margin-right: 10px;
+    display: flex;
+    align-items: flex-end;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
+    color: #111;
+    width: 100vh;
+    height: 50px;
+}
